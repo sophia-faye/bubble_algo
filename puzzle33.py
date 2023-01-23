@@ -6,4 +6,6 @@ def bubble_sort(var):
                 pass
     return var
 
+listfor_sorting = [10, 3, 4, 6, 11, 22, 34]
+
     
