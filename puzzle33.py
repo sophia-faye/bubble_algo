@@ -4,10 +4,8 @@ def bubble_sort(var):
         for i in range(border):
             if var[i] > var[i+1]:
                 var[i], var[i+1] = var[i+1], var[i]
+
     return var
 
 listfor_sorting = [10, 3, 4, 6, 11, 22, 34]
 
-
-
-    
